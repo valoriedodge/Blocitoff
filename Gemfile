@@ -32,3 +32,7 @@ source 'https://rubygems.org'
    gem 'faker'
    gem 'factory_girl_rails'
  end
+
+ group :test do
+   gem 'simplecov'
+ end

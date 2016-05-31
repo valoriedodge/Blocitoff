@@ -1,0 +1,78 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/app/helpers/application_helper.rb": [
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/app/helpers/welcome_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/app/controllers/welcome_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null
+      ],
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/spec/helpers/welcome_helper_spec.rb": [
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/spec/models/user_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/spec/views/welcome/about.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/Users/valorie/odrive/Amazon/Documents/Val/BLOC/Blocitoff/spec/views/welcome/index.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1464625963
+  }
+}
